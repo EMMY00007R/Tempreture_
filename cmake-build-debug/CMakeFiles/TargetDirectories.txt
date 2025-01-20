@@ -1,0 +1,3 @@
+/Users/emmanuelkufre/CLionProjects/Tempreture /cmake-build-debug/CMakeFiles/Tempreture_.dir
+/Users/emmanuelkufre/CLionProjects/Tempreture /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emmanuelkufre/CLionProjects/Tempreture /cmake-build-debug/CMakeFiles/rebuild_cache.dir
